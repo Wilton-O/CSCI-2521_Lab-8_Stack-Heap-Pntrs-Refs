@@ -13,6 +13,7 @@ using namespace std;
 
 /**
  * @brief Entry point for the memory demonstration.
+ * @param None.
  * @return 0 to indicate success.
  */
 int main() {
