@@ -43,8 +43,8 @@ int main() {
 
     // Print Stack int variable pointer and its stored address
     cout << "Pointer to Stack (ptrToStack):" << endl;
-    cout << "  Value Pointed To: " << ptrToStack << endl;
-    cout << "  Address Stored:   " << &ptrToStack << endl << endl;
+    cout << "  Value Pointed To: " << &ptrToStack << endl;
+    cout << "  Address Stored:   " << ptrToStack << endl << endl;
 
     // Print Stack int variable reference and its stored address
     cout << "Reference to Stack (refToStack):" << endl;
